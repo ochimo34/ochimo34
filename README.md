@@ -1,10 +1,10 @@
 ### Hi there 👋
 ### Hello, my name is Ochimo34.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ochimo34/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ochimo34&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ochimo34/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ochimo34" />
 </a>
 <!--
